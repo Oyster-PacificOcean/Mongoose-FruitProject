@@ -1,2 +1,2 @@
 # Mongoose-FruitsProject
-Fruit project using Mongoose
+Fruits project using Mongoose
